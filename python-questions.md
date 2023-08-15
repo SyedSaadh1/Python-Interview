@@ -13,7 +13,7 @@
 ### 5. **Question**: How do you handle exceptions in Python?
    - **Answer**: In Python, exceptions can be handled using a try-except block. The potentially error-causing code is placed inside the `try` block. If an error occurs, the code inside the `except` block is executed. There's also an optional `finally` block that can be used to define cleanup actions, which always get executed, regardless of whether an error occurred.
 
-Let's delve into some Python-specific questions that involve code:
+Let's drive into some Python-specific questions that involve code:
 
 ### 1. **Question**: How do you swap the values of two variables in Python without using a third variable?
    - **Answer**: 
